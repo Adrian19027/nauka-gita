@@ -6,3 +6,6 @@ added 42 packages, and audited 194 packages in 6s
   run `npm fund` for details
 
 found 0 vulnerabilities
+
+
+html-validate "**/*.html" /* przykład komendy uruchamiającej html-validate w taki sposób, aby wyświetliła listę błędów we wszystkich plikach .html */
