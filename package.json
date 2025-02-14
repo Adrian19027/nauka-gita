@@ -1,0 +1,24 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian19027/nauka-gita.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Adrian19027/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/Adrian19027/nauka-gita#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.3"
+  }
+}
