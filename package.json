@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Adrian19027/nauka-gita#readme",
   "devDependencies": {
     "browser-sync": "^3.0.3",
-    "html-validate": "^9.2.2"
+    "html-validate": "^9.2.2",
+    "mkdirp": "^3.0.1"
   }
 }
